@@ -367,3 +367,10 @@ learning
 learning material
 /learning
 *.zip
+.canvas_token
+
+# Course briefs and submitted documents stay local
+BRIEF*
+*.docx
+Task 1/creative-head-2.png
+Task 1/noAI.png
